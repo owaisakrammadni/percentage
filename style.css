@@ -1,0 +1,20 @@
+/* form{
+    border: 1px solid rebeccapurple;
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(46, 14, 78);
+    color: #ffff00;
+} */
+button {
+    color: red;
+    background-color:yellow;
+}
+.abc{
+    border: 1px solid rebeccapurple;
+    width: 60%;
+    height: 200px;
+    background-color:rgb(24, 4, 4);
+    color: yellow;
+    text-align: center;
+}
